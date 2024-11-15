@@ -1,0 +1,95 @@
+.accessability {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+    padding: 2rem 10rem 2rem 4rem
+}
+
+.access-head-text h1 {
+    color: #1D006E;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.access-head-text p {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
+
+.access-bottom-text h2 {
+    color: #1D006E;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: none;
+}
+
+.access-bottom-text p {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 0px;
+    margin-bottom: 10px;
+}
+
+.access-bottom-text ul {
+    padding: 0px 10px 10px 25px;
+    margin: 0;
+}
+
+.access-bottom-text ul li a {
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 0px;
+}
+
+.access-head-text h3{
+    font-size: 16px;
+    font-weight: bold;
+    color: #1D006E;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 1024px) {
+    .accessability {
+        padding: 2rem  4rem
+    }
+}
+@media screen and (max-width: 768px) {
+    .accessability {
+        padding: 2rem  4rem
+    }
+}
+@media screen and (max-width: 450px) {
+    .accessability {
+        padding: 2rem 2rem;
+    }
+
+    .access-head-text h1 {
+        color: #1D006E;
+        font-size: 24px;
+        font-weight: bold;
+        text-align: start;
+        margin: 5px 0px;
+    }
+
+    .access-head-text p {
+        font-size: 14px;
+        font-weight: 400;
+        padding-left: 0px;
+        text-align: start;
+    }
+
+    .access-bottom-text h2 {
+        color: #1D006E;
+        font-size: 18px;
+        font-weight: bold;
+        margin: 5px 0px;
+        text-align: start;
+    }
+
+    .access-bottom-text p {
+        font-size: 14px;
+        font-weight: 400;
+        padding-left: 0px;
+        margin-bottom: 10px;
+        text-align: start;
+    }
+}

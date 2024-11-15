@@ -1,0 +1,21 @@
+.logo-header {
+  font-size: 32px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  cursor: pointer;
+}
+.logo-header:hover {
+  text-decoration: none;
+}
+
+.logo {
+  height: 54px;
+}
+.net {
+  color: var(--primary-color);
+}
+.speek {
+  color: var(--secondary-color);
+}
