@@ -10,6 +10,8 @@ import preston from '../assets/headshots/preston.jpg'
 import jeff from '../assets/headshots/jeff.jpg'
 import mike from '../assets/headshots/mike.jpg';
 import momin from '../assets/headshots/momin.jpg';
+import jakob from '../assets/headshots/jakob.jpg';
+import ahmed from '../assets/headshots/ahmed.jpg';
 import bob from '../assets/headshots/bob.jpg';
 import david from '../assets/headshots/david.jpg';
 import katie from '../assets/headshots/katie.jpg';
@@ -49,11 +51,12 @@ function MeetTheTeam() {
         <div className="mid-cards-container">
           <div className="team-row">
             <TeamMember name={'Stuart armstrong'} title={' Advisor'} img={stuart} linkedinLink="https://www.linkedin.com/in/armstrongstuart/" />
-            <TeamMember name={'Mike Arvelo'} title={'Senior Software Engineer'} img={mike} linkedinLink="https://www.linkedin.com/company/netspeek/mycompany/" />
             <TeamMember name={'Erik DeGiorgi'} title={'CEO'} img={erik} linkedinLink="https://www.linkedin.com/in/erik-degiorgi-35466365/" />
             <TeamMember name={'Brian Kane'} title={'Principle Architect'} img={brian} linkedinLink="https://www.linkedin.com/in/brian-kane-a7a33367/" />
             <TeamMember name={'Jeff Lombardi'} title={'Director'} img={jeff} linkedinLink="https://www.linkedin.com/in/jeffslombardi/" />
             <TeamMember name={'Momin Mokhtar'} title={'Senior Software Engineer'} img={momin} linkedinLink="https://www.linkedin.com/company/netspeek/mycompany/" />
+            <TeamMember name={'Jacob Miller'} title={'Senior Software Engineer'} img={jakob} linkedinLink="https://www.linkedin.com/company/netspeek/mycompany/" />
+            <TeamMember name={'Ahmed AlAmri'} title={'Senior Software Engineer'} img={ahmed} linkedinLink="https://www.linkedin.com/company/netspeek/mycompany/" />
             <TeamMember name={'Preston Naclerio'} title={'Product & Design'} img={preston} linkedinLink="https://www.linkedin.com/in/preston-naclerio/" />
             <TeamMember name={'Katie (smith) valle'} title={'Advisor'} img={katie} linkedinLink="https://www.linkedin.com/in/katie-smith-valle-dsce-1127933/" />
             <TeamMember name={'Bob wilson'} title={'Director'} img={bob} linkedinLink="https://www.linkedin.com/in/bob-wilson/" />
